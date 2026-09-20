@@ -18,5 +18,8 @@ android.minapi = 21
 android.ndk = 25b
 android.accept_sdk_licenses = True
 
+# Definição apenas da arquitetura moderna de 64 bits (evita erros no SDL2_mixer)
+android.archs = arm64-v8a
+
 [buildozer]
 log_level = 2
