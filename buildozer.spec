@@ -1,3 +1,4 @@
+[app]
 title = choque no sistema
 
 package.name = choquenosistema
