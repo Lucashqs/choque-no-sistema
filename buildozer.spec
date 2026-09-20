@@ -1,4 +1,5 @@
 [app]
+version = 0.1
 title = choque no sistema
 
 package.name = choquenosistema
